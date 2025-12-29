@@ -120,6 +120,7 @@
 
 
 	<build>
+		<finalName>app</finalName>
 		<extensions>
 			<!-- Ensure OS compatibility for protoc -->
 			<extension>
